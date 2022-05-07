@@ -7,12 +7,13 @@ import "./App.css";
 function App() {
   return (
     <>
-      <Router>
+      {/* <Router>
         <Routes>
           <Route path="/" element={<HomePage />} exact />
           <Route path="/movie/:id" element={<MoviePage />} />
         </Routes>
-      </Router>
+      </Router> */}
+      <HomePage />
     </>
   );
 }
