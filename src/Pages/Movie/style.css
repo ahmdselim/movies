@@ -1,0 +1,28 @@
+.container .moviePage .navMovie {
+  background-color: #1e272d;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.container .moviePage .movieContent {
+  width: 80%;
+  margin: auto;
+}
+.container .moviePage .movieContent span {
+  line-height: 1.7;
+}
+.container .moviePage .movieContent svg {
+  margin-left: 8px;
+}
+.container .moviePage .movieContent a {
+  background-color: #ef4444;
+  padding: 10px 20px;
+  border-radius: 3px;
+  color: #f9f9f9 !important;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 3;
+}
+.container .moviePage .movieContent a:hover{
+    background-color: #df3a3a;
+}
