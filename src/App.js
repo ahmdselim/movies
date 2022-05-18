@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import HomePage from "./Pages/Home/HomePage";
 import MoviePage from "./Pages/Movie/MoviePage";
-import { HashRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "./App.css";
 
 function App() {

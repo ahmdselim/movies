@@ -1,0 +1,6 @@
+{
+	"appId": "com.region.movies",
+	"appName": "movies",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
